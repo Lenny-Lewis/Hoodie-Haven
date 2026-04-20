@@ -1,0 +1,46 @@
+.Hoodie-Component {
+    display: flex;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    height: 200%;
+    padding: 20px;
+}
+
+.Hoodie-Component img {
+    width: 40%;
+    height: 40%;
+    object-fit: cover;
+}
+
+.Hoodie-Component h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: white;
+}
+
+.Hoodie-Component p {
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.Hoodie-Component span {
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.Hoodie-Component button {
+    background-color: black;
+    color: white;
+}
+
+.Hoodie-Component button:hover {
+    background-color: black;
+    color: white;
+}
