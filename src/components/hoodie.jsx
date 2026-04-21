@@ -2,12 +2,13 @@ import React from 'react'
 
 const hoodie = () => {
   return (
-    <div className='Hoodie-Component'>
+    <div className='bg-black text-white rounded-lg p-4 mt-10 ml-3 w-90'>
         <img src="/assets/Red-black hoodie.png" alt="" />
-        <h2>Red-black Hoodie</h2>
-        <p>Luxurious Red-black Hoodie Made from 100% Cotton</p>
-        <span>$100</span>
-        <button>Add to Cart</button>
+        
+        <h2 className='text-2xl font-bold'>Red-black Hoodie</h2>
+        <p className='text-gray-500'>Luxurious Red-black Hoodie Made from 100% Cotton</p>
+        <span className='text-2xl font-bold'>$100</span>
+        <button className='bg-blue-500 text-white px-4 py-2 rounded-md mt-10'>Add to Cart</button>
     </div>
   )
 }
