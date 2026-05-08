@@ -2,7 +2,7 @@ import React from 'react'
 
 const hoodie = () => {
   return (
-    <div className='bg-black text-white rounded-lg p-4 mt-10 ml-3 w-70'>
+    <div className='bg-black text-white rounded-lg p-4 mt-10 ml-3 w-70 grid gap-4'>
         <img src="/assets/hoodies/black hoodie.avif" alt="" />
         
         <h2 className='text-2xl font-bold font-sans'>Black Hoodie</h2>

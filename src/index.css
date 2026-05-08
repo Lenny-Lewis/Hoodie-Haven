@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --gold: #FCA311;
+  --blue: #14213D;
+}
+
+body{
+    background-color: black;
+}
+
