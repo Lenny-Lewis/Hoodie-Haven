@@ -1,16 +1,50 @@
-# React + Vite
+# Hoodie Haven 👕✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hoodie Haven is a modern e-commerce UI/UX design concept created in Figma for a stylish hoodie clothing brand. The project focuses on delivering a clean, elegant, and user-friendly shopping experience through strong visual hierarchy, modern typography, and a bold black-and-gold aesthetic.
 
-Currently, two official plugins are available:
+## 🚀 Project Goals
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Create a visually appealing fashion storefront
+* Improve product visibility and user engagement
+* Design a responsive and modern shopping interface
+* Maintain simplicity while highlighting brand identity
 
-## React Compiler
+## 🎨 Design Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Modern dark-themed UI
+* Elegant gold accent color palette
+* Clean navigation structure
+* Featured hoodie collections section
+* Strong visual hierarchy for products and call-to-actions
+* Minimal and user-focused layout
 
-## Expanding the ESLint configuration
+## 🛠 Tools Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Figma
+* UI/UX Design Principles
+* Color Theory & Typography
+
+## 📌 Focus Areas
+
+* User Experience (UX)
+* User Interface Design (UI)
+* E-commerce Design
+* Brand Presentation
+
+## 📷 Preview
+
+This project showcases a homepage concept for an online hoodie store, including:
+
+* Hero section
+* Product collection showcase
+* Navigation menu
+* Promotional call-to-actions
+* Custom color palette system
+
+## 🌍 Purpose
+
+The goal of this project was to practice designing modern e-commerce experiences that balance aesthetics, usability, and branding.
+
+---
+
+Designed with creativity and attention to detail using Figma.
